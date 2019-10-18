@@ -10,17 +10,17 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "Ajouter lecteur"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "Type de stockage"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "connecter"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
@@ -30,12 +30,12 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "Enregistrer les informations d'authentification"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "Chemin du lecteur distant"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
@@ -50,67 +50,67 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:277
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "Monter"
 
 #: ../../NetDriveUI/adddrive.ui:294
 msgctxt "AddDrive|"
 msgid "as"
-msgstr ""
+msgstr "comme"
 
 #: ../../NetDriveUI/adddrive.ui:322
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "Options de connection auto"
 
 #: ../../NetDriveUI/adddrive.ui:328
 msgctxt "AddDrive|"
-msgid "No automatic mount"
+msgid "Pas de montage automatique du disque"
 msgstr ""
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "Monter le disque au démarrage"
 
 #: ../../NetDriveUI/adddrive.ui:348
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr "Monter le disque à la connexion"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "charger les options"
 
 #: ../../NetDriveUI/adddrive.ui:364
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr ""
+msgstr "Utiliser le téchargement du navigateur"
 
 #: ../../NetDriveUI/adddrive.ui:374
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr ""
+msgstr "utiliser le téléchargement en arrière-plan"
 
 #: ../../NetDriveUI/adddrive.ui:387
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr ""
+msgstr "Options de lecture seul"
 
 #: ../../NetDriveUI/adddrive.ui:393
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr ""
+msgstr "droit en écriture sur le lecteur"
 
 #: ../../NetDriveUI/adddrive.ui:403
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr ""
+msgstr "Lecteur en lecture seul"
 
 #: ../../NetDriveUI/adddrive.ui:413
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr ""
+msgstr "options avancés"
 
 #: ../../NetDriveUI/adddrive.ui:419
 msgctxt "AddDrive|"
@@ -120,7 +120,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:426
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr ""
+msgstr "en tant que lecteur amovible"
 
 #: ../../NetDriveUI/adddrive.ui:433
 msgctxt "AddDrive|"
@@ -140,12 +140,12 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.cpp:187
 msgctxt "AddDrive|"
 msgid "network drive"
-msgstr ""
+msgstr "lecteur réseau"
 
 #: ../../NetDriveUI/adddrive.cpp:188
 msgctxt "AddDrive|"
 msgid "local drive"
-msgstr ""
+msgstr "lecteur local"
 
 #: ../../NetDriveUI/adddrive.cpp:493
 msgctxt "AddDrive|"
