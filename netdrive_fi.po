@@ -10,17 +10,17 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "ajouter disque"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "Type de stockage"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "Connecter"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
@@ -30,12 +30,12 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "Sauvegarder les informations d'authentification"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "Chemin du dossier distant"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
@@ -50,17 +50,17 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:277
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "Monté"
 
 #: ../../NetDriveUI/adddrive.ui:294
 msgctxt "AddDrive|"
 msgid "as"
-msgstr ""
+msgstr "Comme"
 
 #: ../../NetDriveUI/adddrive.ui:322
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "Options de connection automatique"
 
 #: ../../NetDriveUI/adddrive.ui:328
 msgctxt "AddDrive|"
@@ -70,17 +70,17 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "Monter au démarrage"
 
 #: ../../NetDriveUI/adddrive.ui:348
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr ""Monter à la connexion
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "Charger les options"
 
 #: ../../NetDriveUI/adddrive.ui:364
 msgctxt "AddDrive|"
